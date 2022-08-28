@@ -316,7 +316,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"TabBarIconGenerator/Preview Content\"";
-				DEVELOPMENT_TEAM = A46C2G8GT3;
+				DEVELOPMENT_TEAM = QCHSMSH3C7;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = TabBarIconGenerator/Info.plist;
@@ -326,7 +326,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MARKETING_VERSION = 1.02;
-				PRODUCT_BUNDLE_IDENTIFIER = com.ireldev.TabBarIconGenerator;
+				PRODUCT_BUNDLE_IDENTIFIER = com.christopherprice.iOSTabBarIconGenerator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -341,7 +341,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"TabBarIconGenerator/Preview Content\"";
-				DEVELOPMENT_TEAM = A46C2G8GT3;
+				DEVELOPMENT_TEAM = QCHSMSH3C7;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = TabBarIconGenerator/Info.plist;
@@ -351,7 +351,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MARKETING_VERSION = 1.02;
-				PRODUCT_BUNDLE_IDENTIFIER = com.ireldev.TabBarIconGenerator;
+				PRODUCT_BUNDLE_IDENTIFIER = com.christopherprice.iOSTabBarIconGenerator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};

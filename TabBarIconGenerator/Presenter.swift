@@ -69,9 +69,9 @@ class Presenter {
 
         createFolderAtPath(at: normalizedFolderPath)
 
-        let image3x = resizeImage(image: image, width: 75, height: 75)
-        let image2x = resizeImage(image: image, width: 50, height: 50)
-        let image1x = resizeImage(image: image, width: 25, height: 25)
+        let image3x = resizeImage(image: image, width: 38, height: 38)
+        let image2x = resizeImage(image: image, width: 25, height: 25)
+        let image1x = resizeImage(image: image, width: 13, height: 13)
 
         saveImage(image: image3x!, path: folderPath.appendingPathComponent("\(name)@3x.png"))
         saveImage(image: image2x!, path: folderPath.appendingPathComponent("\(name)@2x.png"))
